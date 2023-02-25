@@ -27,4 +27,4 @@ console.log("Task : Create a vanity address generator to match the prefix.")
 prefix = '6'
 add_menm = generateAddress(prefix)
 console.log("The address that matches the prefix is : ", add_menm.address1)
-console.log("The menmonic phase is : ", add_menm.mnemonic)
+console.log("The menmonic phrase is : ", add_menm.mnemonic)
